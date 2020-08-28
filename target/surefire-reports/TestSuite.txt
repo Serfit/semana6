@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 24.558 s <<< FAILURE! - in TestSuite
+f(com.platinum.SeleniumTest.NewTest)  Time elapsed: 3.662 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[pagina principal Iplacex - Google search]> but was:<[Pagina principal Iplacex - Buscar con Google]>
+	at com.platinum.SeleniumTest.NewTest.f(NewTest.java:25)
+

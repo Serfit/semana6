@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="250" started-at="2020-08-16T17:57:53 CLST" finished-at="2020-08-16T17:57:53 CLST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="250" started-at="2020-08-16T17:57:53 CLST" finished-at="2020-08-16T17:57:53 CLST">
+      <class name="com.platinum.SeleniumTest.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()" name="shouldAnswerWithTrue" duration-ms="50" started-at="2020-08-16T17:57:53 CLST" finished-at="2020-08-16T17:57:53 CLST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- com.platinum.SeleniumTest.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
